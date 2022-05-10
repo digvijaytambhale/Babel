@@ -1,0 +1,22 @@
+.card-section {
+    margin-top: 2.5em;
+}
+.card-section .card-layout {
+    padding: 0.5em 1em;
+    margin-right: 2rem;
+    display: inline-block;
+    width: 27%;
+}
+.card-section .card-layout p {
+    color: rgb(109,109,109);
+}
+.card-section .card-layout .card-heading {
+    font-size: 0.875em;
+    font-weight: bold;
+}
+.card-section .card-layout .card-values {
+    font-size: 1.25em;
+}
+.card-section .card-layout .card-units {
+    font-size: 0.875em;
+}
