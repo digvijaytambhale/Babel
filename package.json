@@ -9,14 +9,7 @@
     "format": "prettier -w ./*.js"
   },
   "contributors": [
-    "Anish George",
-    "Asha Beirne",
-    "Derui Deng",
-    "Gabriel McCallin",
-    "Giamir Buoncristiani",
-    "Isadora Barros",
-    "Paul Venhaus",
-    "Tuomas Nylund"
+    "Digvijay"
   ],
   "license": "ISC",
   "engines": {

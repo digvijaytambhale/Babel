@@ -1,6 +1,6 @@
-# Introducing JOI Energy
+# Introducing Energie
 
-JOI Energy is a new start-up in the energy industry. They provide their customers with smart meters that record their
+Energie is a new start-up in the energy industry. They provide their customers with smart meters that record their
 energy usage, enabling them to save both money and the environment. The smart meters also record the energy that
 a customer feeds back into the power grid via solar panels installed on their property.
 
